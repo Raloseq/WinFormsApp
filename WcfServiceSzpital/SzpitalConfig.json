@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "SzpitalFtpConfig": {
+    "url": "ftp://127.0.0.1",
+    "username": "Szpital",
+    "password": ""
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}
